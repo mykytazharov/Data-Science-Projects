@@ -1,4 +1,4 @@
-# DataScienceProjects
+# Data-Science-Projects
 
 In this repository I present my data science projects.
 
