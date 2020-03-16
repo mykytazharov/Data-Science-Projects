@@ -2,7 +2,7 @@
 
 In this repository I present my data science projects.
 
-##Data Science: Statistics and Machine Learning Specialization by Johns Hopkins University on Coursera
+## Data Science: Statistics and Machine Learning Specialization by Johns Hopkins University on Coursera
 
 * tooth_data.pdf - Exploratory analysis and hypothesis testing for ToothGrowth data in R.
 * mtcarsRegress.pdf - Exploratory and regression analysis of mtcars data set in R.
