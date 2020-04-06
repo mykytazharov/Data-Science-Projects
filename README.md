@@ -10,3 +10,7 @@ In this repository I present my data science projects.
 * [Report](https://mykytazharov.github.io/personalActivityPrediction/) - Predictive analysis and modeling of personal activity in R. 
 * [R Shiny App](https://mykytazharov.shinyapps.io/KMeansVisualisation/ ) for solving clustering problem for the iris data set using K-means, K-medoids, mode-based clustering algorithms.
 * [R Shiny App](https://mykytazharov.shinyapps.io/SmartKeyBoardApp/) for predicting the next word the user intends to type, based in the 4-gram language model with stupid backoff algorithm. (Final Capstone Project)
+
+## Exploratory Data Analysis and Data Visualisation
+
+* [EDA of a Neflix](https://mykytazharov.github.io/netflix_eda) dataset with Plotly in R.
