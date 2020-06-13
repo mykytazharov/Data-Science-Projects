@@ -14,3 +14,4 @@ In this repository I present my data science projects.
 ## Exploratory Data Analysis and Data Visualisation
 
 * [EDA of a Netflix](https://mykytazharov.github.io/netflixEDA/) dataset with Plotly in R.
+* [IMDB ratings for Netflix](https://github.com/mykytazharov/netflixEDA/blob/master/netflix_imdb.ipynb)
