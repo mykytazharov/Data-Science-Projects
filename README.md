@@ -15,3 +15,7 @@ In this repository I present my data science projects.
 
 * [EDA of a Netflix](https://mykytazharov.github.io/netflixEDA/) dataset with Plotly in R.
 * [IMDB ratings for Netflix](https://github.com/mykytazharov/netflixEDA/blob/master/netflix_imdb.ipynb)
+
+## Text Data
+
+* [Sentiment Analysis](https://github.com/mykytazharov/IMDbReviewsSentimentAnalysis/blob/main/imdb-text-classification-embedding-nn-in-keras.ipynb) - Text classification in two groups(positive, negative) of IMDb film reviews using word embeddings and simple neural network with Keras and Python.
